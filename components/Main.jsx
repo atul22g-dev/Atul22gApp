@@ -10,7 +10,7 @@ const Main = () => {
         <SmoothScrollView>
             <ScrollView style={{ backgroundColor: "white" }}>
                 {/* Avatar */}
-                <Avatar.Image style={style.avatar} size={100} source={require('@/assets/images/avtar.png')} />
+                <Avatar.Image style={style.avatar} size={100} source={require('@/assets/images/icon.png')} />
                 {/* Heading */}
                 <Text style={style.heading}>atul22g</Text>
                 {/* SubHeading */}
